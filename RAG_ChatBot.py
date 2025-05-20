@@ -135,7 +135,7 @@ class ChatBot:
                 result = self.rag_chain.invoke(input_text)
                 return result['result'].strip()
             except Exception as e:
-                print(f"RAG query failed: {e}")
+                print(f"RAG query: {e}")
 
         # fallback: Static response using cosine similarity
         if self.embeddings and self.issue_embeddings is not None:
