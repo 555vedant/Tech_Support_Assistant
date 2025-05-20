@@ -1,0 +1,19 @@
+# Sample Input and Output for Technical Support Chatbot
+
+# Inputs are user queries entered in the Streamlit UI.
+
+# Outputs are responses from the chatbot, either via RAG (HuggingFace + Pinecone) or static fallback (cosine similarity).
+
+Input: Cannot connect to Wi-Fi Output: Please check your router settings and ensure the Wi-Fi credentials are correct.
+
+Input: I’m having trouble connecting to Wi-Fi on my device Output: Please check your router settings and ensure the Wi-Fi credentials are correct.
+
+Input: The software keeps failing to install Output: Ensure you have admin privileges and check the system requirements for the software.
+
+Input: I can’t log in to TaskFlow Output: Reset your password using the 'Forgot Password' link or contact support.
+
+Input: My Wi-Fi connection drops frequently Output: Restart your router and update your device’s network drivers.
+
+Input: The app crashes every time I open it Output: Clear the app cache or reinstall the application.
+
+Input: Unable to sync my tasks in TaskFlow Output: Sorry, I couldn't find a matching response. Please try again or contact support.
