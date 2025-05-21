@@ -32,21 +32,6 @@ This project is a Retrieval-Augmented Generation (RAG) based chatbot built using
 
 ---
 
-## 🧪 Sample Input/Output
-
-**Input:**
-```
-I'm getting a 404 error when trying to access my project dashboard.
-```
-
-**Output:**
-```
-A 404 error usually means the requested page doesn't exist or the URL is incorrect. 
-Please verify the project link or check if the project was deleted or renamed.
-```
-
----
-
 ## 🛠 Setup Instructions
 
 1. **Install dependencies**:
