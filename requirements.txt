@@ -3,7 +3,7 @@ pandas
 langchain-community
 sentence-transformers
 langchain_pinecone
-pinecone-client
+pinecone
 python-dotenv
 streamlit
 langchain-openai
